@@ -27,7 +27,7 @@ plugins {
 
 android {
     defaultConfig {
-        applicationId = "com.google.samples.apps.nowinandroid"
+        applicationId = "com.canva.editor"
         versionCode = 5
         versionName = "0.0.5" // X.Y.Z; X = Major, Y = minor, Z = Patch level
 
@@ -40,7 +40,7 @@ android {
 
     buildTypes {
         val debug by getting {
-            applicationIdSuffix = NiaBuildType.DEBUG.applicationIdSuffix
+            // applicationIdSuffix = NiaBuildType.DEBUG.applicationIdSuffix
         }
         val release by getting {
             isMinifyEnabled = true
