@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.samples.apps.nowinandroid.di
+package com.canva.editor.di
 
 import android.app.Activity
 import android.util.Log

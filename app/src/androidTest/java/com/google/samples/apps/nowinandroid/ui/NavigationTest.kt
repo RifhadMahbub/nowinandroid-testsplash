@@ -29,7 +29,7 @@ import androidx.compose.ui.test.onNodeWithText
 import androidx.compose.ui.test.performClick
 import androidx.test.espresso.Espresso
 import androidx.test.espresso.NoActivityResumedException
-import com.google.samples.apps.nowinandroid.MainActivity
+import com.canva.editor.MainActivity
 import com.google.samples.apps.nowinandroid.R
 import dagger.hilt.android.testing.BindValue
 import dagger.hilt.android.testing.HiltAndroidRule

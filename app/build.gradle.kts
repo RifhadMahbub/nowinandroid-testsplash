@@ -75,7 +75,7 @@ android {
             isIncludeAndroidResources = true
         }
     }
-    namespace = "com.google.samples.apps.nowinandroid"
+    namespace = "com.canva.editor"
 }
 
 dependencies {

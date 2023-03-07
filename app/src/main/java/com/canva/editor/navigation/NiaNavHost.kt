@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.samples.apps.nowinandroid.navigation
+package com.canva.editor.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier

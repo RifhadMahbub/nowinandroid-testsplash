@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.google.samples.apps.nowinandroid.navigation
+package com.canva.editor.navigation
 
-import com.google.samples.apps.nowinandroid.R
+import com.canva.editor.R
 import com.google.samples.apps.nowinandroid.core.designsystem.icon.Icon
 import com.google.samples.apps.nowinandroid.core.designsystem.icon.Icon.DrawableResourceIcon
 import com.google.samples.apps.nowinandroid.core.designsystem.icon.Icon.ImageVectorIcon

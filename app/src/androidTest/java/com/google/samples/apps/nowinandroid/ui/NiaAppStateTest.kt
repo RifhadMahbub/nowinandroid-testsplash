@@ -30,6 +30,8 @@ import androidx.navigation.compose.ComposeNavigator
 import androidx.navigation.compose.composable
 import androidx.navigation.createGraph
 import androidx.navigation.testing.TestNavHostController
+import com.canva.editor.ui.NiaAppState
+import com.canva.editor.ui.rememberNiaAppState
 import com.google.samples.apps.nowinandroid.core.testing.util.TestNetworkMonitor
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.launch
